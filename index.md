@@ -1,2 +1,2 @@
 # KazukiEguchi's note
-[C++_ezoe](https://kazukieguchi.github.io/C-/)
+[C++_ezoe](https://kazukieguchi.github.io/C-plus-ezoe/)
