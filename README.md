@@ -1,2 +1,2 @@
 # KazukiEguchiのホームページ
-https://kazukieguchi.github.io/KazukiEguchi.guthub.io/
+https://kazukieguchi.github.io/KazukiEguchi.github.io/
